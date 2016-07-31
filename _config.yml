@@ -6,9 +6,13 @@ color:
   saturation: 0.09370920201763511
   rhythmicContrast: 0.5088810632005334
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Brian Driggs
+navigation:
+  - name: Brian Driggs
+    url: www.briandriggs.com
+    type: external
