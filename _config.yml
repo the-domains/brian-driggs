@@ -16,6 +16,8 @@ navigation:
   - name: Brian Driggs
     url: www.briandriggs.com
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a316d3-c243-44cc-a161-7ce3a14c63ac.jpg
 title: Brian Driggs
 description: >-
   " Do not seek to follow in the footsteps of the wise. Seek what they sought."
